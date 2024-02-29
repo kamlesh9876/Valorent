@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+
+<head>
+    <title>
+        Valorent
+    </title>
+    <h1>
+        <center>Valorent</center>
+    </h1>
+
+    <style>
+        h1 {
+            background-image: url("https://wallpapers.com/images/high/valorant-1920x1080-g8rhtasbs8ubh39t.webp");
+            font-family: 'Times New Roman', Times, serif;
+
+
+        }
+
+        body {
+            background-image: url("https://wallpapers.com/images/high/valorant-player-roles-305kescxw5dpup7y.webp");
+            background-repeat: no-repeat;
+            background-size: 100%;
+            transition: background-image 0.5 ease-in-out;
+        }
+
+        p {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: medium;
+            text-align: center;
+            padding: 50px;
+            color: antiquewhite;
+
+        }
+
+        p:hover {
+            background-image: url("https://wallpapers.com/images/high/valorant-computer-shadowed-characters-b22pfp9biq7hm5bu.webp");
+            background-repeat: no-repeat;
+            background-size: 100%;
+            height: 100%;
+            width: 95%;
+
+        }
+
+        .gallery1 {
+            display: flexbox;
+            width: 100%;
+            height: 150px;
+            gap: 600px;
+            border: 10px;
+        }
+
+        .gallery>img {
+            width: 10.7%;
+            height: 100px;
+            object-fit: cover;
+            overflow: inherit;
+            transition: border-color 2s ease-in-out;
+
+        }
+
+        .gallery>img:hover {
+            width: 20%;
+            filter: drop-shadow(0px 0px 10px rgba(71, 6, 54, 3.5));
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="gallery">
+        <img
+            src="https://c4.wallpaperflare.com/wallpaper/574/1000/943/valorant-video-games-riot-games-yoru-valorant-hd-wallpaper-preview.jpg">
+        <img
+            src="https://c4.wallpaperflare.com/wallpaper/363/13/252/valorant-killjoy-valorant-digital-art-artwork-digital-hd-wallpaper-preview.jpg">
+        <img
+            src="https://c4.wallpaperflare.com/wallpaper/170/740/861/valorant-omen-valorant-digital-art-artwork-digital-hd-wallpaper-preview.jpg">
+        <img
+            src="https://c4.wallpaperflare.com/wallpaper/201/304/907/valorant-video-games-video-game-art-reyna-valorant-digital-hd-wallpaper-preview.jpg">
+    </div>
+    <p>
+        Valorant is a popular tactical first-person shooter (FPS) game developed and published by Riot Games. Released
+        on June 2, 2020, Valorant incorporates elements of traditional FPS gameplay with unique character abilities,
+        creating a distinct and strategic gaming experience. The game has gained widespread popularity and has become a
+        prominent title in the esports scene. Valorant was developed and published by Riot Games, the same company
+        behind the highly successful game League of Legends.
+        The closed beta for Valorant was launched on April 7, 2020, allowing players to experience the game and provide
+        feedback before the official release on June 2, 2020.Valorant features a ranked mode that allows players to
+        compete against others of similar skill levels.
+        The ranking system includes various tiers, such as Iron, Bronze, Silver, Gold, Platinum, Diamond, Immortal, and
+        Radiant, with each tier having multiple divisions.
+    </p>
+</body>
