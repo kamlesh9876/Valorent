@@ -27,7 +27,4 @@ Background Images: Wallpapers.com
 
 Game Information: Riot Games
 
-License
-This project is licensed under the MIT License.
-
 Happy exploring the world of Valorant!
