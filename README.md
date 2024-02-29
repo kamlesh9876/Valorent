@@ -14,16 +14,10 @@ Game Details: Learn about Valorant's release, gameplay, and popularity in the es
 Preview
 Check out the live preview here.
 
-Usage
-Clone the Repository:
-git clone [https://github.com/your-username/valorant-webpage.git](http://127.0.0.1:5501/Project/HTML+JAVA+CSS/Valorent.html)
-Open in Browser:
-Open the index.html file in a web browser.
+[https://github.com/your-username/valorant-webpage.git](http://127.0.0.1:5501/Project/HTML+JAVA+CSS/Valorent.html)
+
 Customization
 Feel free to customize the content, background images, and styles to suit your preferences. Personalize the webpage and share the excitement of Valorant!
-
-Credits
-Background Images: Wallpapers.com
 
 Game Information: Riot Games
 
